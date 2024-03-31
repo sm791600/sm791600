@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello my name is Marko
+I am learning Java
 
 <!--
 **sm791600/sm791600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
