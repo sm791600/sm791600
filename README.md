@@ -1,11 +1,10 @@
-### Hello my name is Marko
-I am learning Java
-
+### Hello my name is Marko Stojanovikj
+####Right now I am learning Java  
 
 🌎 I live in Skopje, Macedonia  
 📕 I have experience programing in  
 ☕ Java  
-C++ and C  
+🔷 C++ and C  
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sm791600)](https://github.com/anuraghazra/github-readme-stats)
