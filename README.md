@@ -1,6 +1,6 @@
 ### Hello my name is Marko Stojanovikj  
 
-Right now I am learning Java, I am still a student  
+I am still a student, right now I am learning Java  
 
 🌎 I live in Skopje, Macedonia  
 📕 I have experience programing in  
