@@ -1,17 +1,18 @@
 ### Hello my name is Marko Stojanovikj  
 
-I am still a student, right now I am learning Java  
+I am a student, right now I am learning Java  
 
 🌎 I live in Skopje, Macedonia  
-📕 I have experience programing in  
-☕ Java  
-🔷 C++ and C  
+📕 I have experience programing in these languages:  
+<img src="images/Java_icon.png" width="20"> Java  
+C++ 
+C  
 
 
+
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sm791600)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+-->
 
 
 
