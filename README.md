@@ -6,9 +6,9 @@
 📕 I have experience programing in these languages:  
 
 
-<a> <img src="images/Icon_Java.png" width="50"> <img src="images/Icon_Cpp.png" width="50">  
-
-<img src="images/Icon_C.png" width="50"> </a>
+<img src="images/Icon_Java.png" width="50">
+<img src="images/Icon_Cpp.png" width="50">
+<img src="images/Icon_C.png" width="50">
 
 
 <!--
