@@ -6,8 +6,15 @@
 📕 I have experience programing in these languages:  
 
 
-<img src="images/github_langugages_icons_side_by_sidex075.jpg" alt="Java, C, and C++" width="180">
+<img src="images/Icon_Java.png" width="50">  
+<img src="images/Icon_Cpp.png" width="50">  
+<img src="images/Icon_C.png" width="50"> 
 
+
+
+<!--
+<img src="images/github_langugages_icons_side_by_sidex075.jpg" alt="Java, C, and C++" width="180">
+-->
 
 
 <!--
